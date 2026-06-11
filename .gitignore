@@ -1,0 +1,13 @@
+# Zig build directories
+.zig-cache/
+zig-out/
+
+# IDE / Editor directories
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Local binaries / symbols
+*.exe
+*.pdb
